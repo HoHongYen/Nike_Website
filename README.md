@@ -1,4 +1,6 @@
-# React + Vite
+# Basic Tailwind CSS + React + Vite
+
+## Web link: https://nike-shoe.web.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
